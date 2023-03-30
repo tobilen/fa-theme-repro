@@ -1,0 +1,23 @@
+{
+  "name": "fa-theme-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@fusionauth/node-client": "^1.44.0",
+    "uuid": "^9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobilen/fa-theme-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobilen/fa-theme-repro/issues"
+  },
+  "homepage": "https://github.com/tobilen/fa-theme-repro#readme"
+}
